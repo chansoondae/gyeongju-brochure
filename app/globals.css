@@ -62,6 +62,30 @@
     font-size: 16px;
   }
 
+  [data-font-size="medium"] .text-base {
+    font-size: 17px;
+  }
+
+  [data-font-size="medium"] .text-lg {
+    font-size: 19px;
+  }
+
+  [data-font-size="medium"] .text-xl {
+    font-size: 22px;
+  }
+
+  [data-font-size="medium"] .text-2xl {
+    font-size: 25px;
+  }
+
+  [data-font-size="medium"] .text-3xl {
+    font-size: 30px;
+  }
+
+  [data-font-size="medium"] .text-4xl {
+    font-size: 35px;
+  }
+
   [data-font-size="large"] {
     font-size: 18px;
   }
