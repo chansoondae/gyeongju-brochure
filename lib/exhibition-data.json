@@ -1,0 +1,152 @@
+{
+  "exhibition": {
+    "title": "신라 금관, 권력과 위신",
+    "titleEn": "Silla Gold Crowns: Power and Prestige",
+    "date": "2025.10.22",
+    "location": {
+      "name": "국립경주박물관",
+      "address": "경상북도 경주시 일정로 186",
+      "phone": "054-740-7500"
+    },
+    "hours": {
+      "regular": "10:00~18:00",
+      "extended": "매주 토요일 ~21:00 (3~12월)",
+      "closed": "1월 1일, 설날, 추석"
+    },
+    "description": "신라의 금관과 금허리띠를 통해 권력과 위신을 표현한 특별전입니다. 5~6세기 신라 귀족들의 화려한 금제 장신구를 전시하고 있습니다.",
+    "theme": "5세기부터 6세기에 걸친 신라 금관들은 나뭇가지와 사슴뿔 모양의 세움 장식으로 특징지어집니다."
+  },
+  "artifacts": {
+    "goldCrowns": [
+      {
+        "id": "gyodong",
+        "name": "교동 금관",
+        "period": "5세기",
+        "height": "12.8cm",
+        "number": "경주 2619",
+        "grade": "",
+        "imageUrl": "https://gyeongju.museum.go.kr/_prog/bbs/?mode=D&site_dvs_cd=kor&code=0403_2025&file_id=10257",
+        "description": "교동에서 출토된 5세기 신라 금관",
+        "detailedDescription": "머리띠와 3개의 세움장식으로 구성된 관으로, 머리띠에는 아무른 장식이 없고 2줄의 둥근 달개만 달렸습니다. 세움 장식은 중심 가지와 좌우 곁가지로 이루어지며, 끝은 꽃봉오리 형태입니다.\n\n도굴품이지만 부산 복천동 고분군 10·11호묘에서 비슷한 모양의 금동관이 출토되어 현재는 이 금관을 전형적인 금관의 이른 시기 형태로 보기도 합니다."
+      },
+      {
+        "id": "geumgwanchong",
+        "name": "금관총 금관",
+        "period": "5세기",
+        "height": "27.5cm",
+        "number": "",
+        "grade": "국보",
+        "imageUrl": "https://gyeongju.museum.go.kr/_prog/bbs/?mode=D&site_dvs_cd=kor&code=0403_2025&file_id=10275",
+        "description": "금관총에서 출토된 대표적인 신라 금관",
+        "detailedDescription": "3개의 나뭇가지 모양과 2개의 사슴뿔 모양 세움 장식을 붙인 전형적인 신라 금관입니다. 머리띠의 위, 아래 가장자리에는 2줄의 삼각점문을 돌려 문양대를 구획한 후, 그 사이에 물결무늬를 새겼습니다.\n\n띠 가운데에는 볼록 장식을 새기고 곱은옥과 둥근 달개를 달았습니다. 수식은 가는 고리를 중심 고리로 하고, 곱은옥이 끝장식인 수식이 세트로 구성되어 있습니다."
+      },
+      {
+        "id": "geumnyeongchong",
+        "name": "금령총 금관",
+        "period": "6세기",
+        "height": "27.0cm",
+        "number": "",
+        "grade": "보물",
+        "imageUrl": "https://gyeongju.museum.go.kr/_prog/bbs/?mode=D&site_dvs_cd=kor&code=0403_2025&file_id=10276",
+        "description": "금령총에서 출토된 6세기 신라 금관",
+        "detailedDescription": "전형적인 신라 금관이지만 곱은옥이 없는 점이 특이합니다. 나뭇가지 모양 세움 장식의 곁가지가 4단인 점은 천마총 금관과 같습니다.\n\n긴 사슬 모양의 중간 장식과 펜촉 모양의 끝장식이 붙은 수식이 있으며, 마지막 세 번째 수식은 긴 중간 장식 끝에 4개의 펜촉 모양 장식을 매단 것인데, 장식 하나가 다른 세 개보다 큽니다."
+      },
+      {
+        "id": "seobongchong",
+        "name": "서봉총 금관",
+        "period": "6세기",
+        "height": "30.7cm",
+        "number": "",
+        "grade": "보물",
+        "imageUrl": "https://gyeongju.museum.go.kr/_prog/bbs/?mode=D&site_dvs_cd=kor&code=0403_2025&file_id=10277",
+        "description": "서봉총에서 출토된 6세기 신라 금관",
+        "detailedDescription": "안쪽에 가늘고 긴 띠 모양의 금판을 십자형으로 교차시켜 모자 모양을 만든 후 교차점에 다시 나뭇가지 모양 세움장식을 세우고, 끝에 세 마리의 새를 표현했습니다.\n\n세움 장식 가장자리는 원점문을 2줄 새겼고, 머리띠에는 3단으로 원형의 볼록 장식을 튀어나오도록 새기고 곱은옥과 달개를 달았습니다."
+      },
+      {
+        "id": "hwangnamdaechong-north",
+        "name": "황남대총 북분 금관",
+        "period": "5세기",
+        "height": "27.3cm",
+        "number": "",
+        "grade": "국보",
+        "imageUrl": "https://gyeongju.museum.go.kr/_prog/bbs/?mode=D&site_dvs_cd=kor&code=0403_2025&file_id=10280",
+        "description": "황남대총 북분에서 출토된 5세기 신라 금관",
+        "detailedDescription": "3개의 나뭇가지 모양 세움 장식과 2개의 사슴뿔 모양 세움 장식, 그리고 머리띠로 구성된 전형적인 신라 금관 중 하나입니다. 나뭇가지 모양 세움 장식의 곁가지는 3단이며, 가장자리에는 원점문이 한 줄 새겨져 있습니다.\n\n머리띠의 위, 아래 가장자리에는 2줄의 삼각점문을 돌려 문양대를 구획한 후 그 안에 물결무늬를 새겼습니다. 교동 금관을 제외하고 발굴로 확인된 5점의 금관 중 가장 이른 시기에 제작된 것이며, 소유자는 여성이라는 주장이 대세입니다."
+      },
+      {
+        "id": "cheonmachong",
+        "name": "천마총 금관",
+        "period": "6세기",
+        "height": "32.5cm",
+        "number": "",
+        "grade": "국보",
+        "imageUrl": "https://gyeongju.museum.go.kr/_prog/bbs/?mode=D&site_dvs_cd=kor&code=0403_2025&file_id=10286",
+        "description": "천마총에서 출토된 6세기 신라 금관, 가장 높은 금관",
+        "detailedDescription": "머리띠에 3개의 나뭇가지 모양과 사슴뿔 모양의 세움 장식이 세워져 있는 점은 황남대총 북분, 금관총, 서봉총 금관과 같지만, 곁가지가 4단인 점은 금령총 금관과 닮았습니다.\n\n나뭇가지와 사슴뿔은 천지를 중재하는 매개체로 해석됩니다. 전체적으로 반달 모양 곡옥과 금 달개로 화려하게 장식되어 있습니다."
+      }
+    ],
+    "goldBelts": [
+      {
+        "id": "geumgwanchong-belt",
+        "name": "금관총 금허리띠",
+        "decorations": "40개 띠꾸미개",
+        "pendants": "17줄 띠드리개",
+        "imageUrl": "https://gyeongju.museum.go.kr/_prog/bbs/?mode=D&site_dvs_cd=kor&code=0403_2025&file_id=10283",
+        "description": "금관총에서 출토된 화려한 금허리띠",
+        "detailedDescription": "얇은 금판을 도려내어 만든 마흔 매의 띠꾸미개와 열일곱 줄의 띠드리개로 구성되었습니다. 띠꾸미개는 네모난 장식판과 하트 모양 드리개로 구성되었습니다.\n\n세잎 무늬를 맞새김했는데, 가운데 잎은 좌우 잎보다 길게 늘어나게 표현되었습니다. 띠꾸미개에 둥근 달개를 금실로 꼬아 매달아 화려함을 강조했습니다.\n\n금관총 금허리띠는 띠꾸미개의 세잎 무늬가 독특하고, 띠끝꾸미개에 물결 무늬가 유일하게 새겨져 있는데 다른 금허리띠와 다른 점입니다."
+      },
+      {
+        "id": "geumnyeongchong-belt",
+        "name": "금령총 금허리띠",
+        "decorations": "23개 띠꾸미개",
+        "pendants": "13줄 띠드리개",
+        "imageUrl": "https://gyeongju.museum.go.kr/_prog/bbs/?mode=D&site_dvs_cd=kor&code=0403_2025&file_id=10281",
+        "description": "금령총에서 출토된 금허리띠",
+        "detailedDescription": "스물세 매의 띠꾸미개와 일곱 줄의 띠드리개 외에도 연필 모양 장식 두 줄, 곱은옥 네 줄이 더 달려 있는데 이것까지 포함하면 띠드리개는 열세 줄입니다.\n\n세잎 무늬를 맞새김했는데, 세잎이 둥글게 말려 완전한 원 무늬로 표현되었습니다.\n\n금령총 금허리띠는 총 길이가 74cm인데 천마총 금허리띠보다 60cm 정도 짧습니다. 이처럼 작은 크기의 장신구는 금관과 가는고리 귀걸이, 가슴걸이, 말갖춤에서도 확인되기 때문에 금령총의 주인공은 어린 왕족으로 추정되고 있습니다."
+      },
+      {
+        "id": "seobongchong-belt",
+        "name": "서봉총 금허리띠",
+        "decorations": "34개 띠꾸미개",
+        "pendants": "8줄 띠드리개",
+        "imageUrl": "https://gyeongju.museum.go.kr/_prog/bbs/?mode=D&site_dvs_cd=kor&code=0403_2025&file_id=10282",
+        "description": "서봉총에서 출토된 금허리띠",
+        "detailedDescription": "세잎 무늬를 맞새김했는데, 세잎이 띠꾸미개 장식판의 절반 이상 넘게 표현된 것이 특징입니다. 드리개는 하트 안쪽 잎 주위를 띠로 감싼 모양입니다.\n\n띠꾸미개에서 하트 모양 드리개의 무늬가 독특합니다."
+      },
+      {
+        "id": "hwangnamdaechong-south-belt",
+        "name": "황남대총 남분 금허리띠",
+        "decorations": "28개 띠꾸미개",
+        "pendants": "13줄 띠드리개",
+        "imageUrl": "https://gyeongju.museum.go.kr/_prog/bbs/?mode=D&site_dvs_cd=kor&code=0403_2025&file_id=10279",
+        "description": "황남대총 남분에서 출토된 금허리띠",
+        "detailedDescription": "스물여덟 매의 띠꾸미개와 양 끝에 띠고리와 띠끝꾸미개, 그리고 열세 줄의 띠드리개로 구성되어 있습니다. 세잎의 가운데 잎이 장식판의 절반 이상을 넘지 않는 모양입니다.\n\n이 금허리띠는 생전 일상용으로 사용하지 않았을 개연성이 크기 때문에 부장용으로 제작된 것임을 알려줍니다. 금허리띠의 길이는 대부분 1m를 넘는데 실제 허리 둘레보다 휠씬 길게 제작된 셈입니다."
+      },
+      {
+        "id": "hwangnamdaechong-north-belt",
+        "name": "황남대총 북분 금허리띠",
+        "decorations": "28개 띠꾸미개",
+        "pendants": "13줄 띠드리개",
+        "imageUrl": "https://gyeongju.museum.go.kr/_prog/bbs/?mode=D&site_dvs_cd=kor&code=0403_2025&file_id=10278",
+        "description": "황남대총 북분에서 출토된 금허리띠",
+        "detailedDescription": "남분과 동일한 구조로 스물여덟 매의 띠꾸미개로 구성되었습니다. 띠꾸미개의 네모난 장식판에는 세잎 무늬를 맞새김했는데, 세잎의 가운데 잎이 장식판의 절반 이상을 넘지 않는 모양입니다."
+      },
+      {
+        "id": "cheonmachong-belt",
+        "name": "천마총 금허리띠",
+        "decorations": "44개 띠꾸미개",
+        "pendants": "13줄 띠드리개",
+        "imageUrl": "https://gyeongju.museum.go.kr/_prog/bbs/?mode=D&site_dvs_cd=kor&code=0403_2025&file_id=10284",
+        "description": "천마총에서 출토된 금허리띠",
+        "detailedDescription": "마흔네 매의 띠꾸미개와 열세 줄의 띠드리개로 구성되었습니다. 소형 열두 줄은 타원형과 네모꼴 장식을 이은 것(열한 줄)과 사슬로 된 것(한 줄)이 있고, 대형 한 줄은 크고 작은 타원형 장식만을 이었습니다.\n\n천마총 금허리띠의 가장 큰 특징은 띠꾸미개의 무늬가 황남대총 남분 및 북분 금허리띠와 같다는 점입니다.\n\n최종 장식으로 숫돌을 본뜬 것으로 알려져 있는 육면체 장식이 있으며, 이 장식은 나무를 금판으로 감싼 것입니다. 띠꾸미개의 달개는 현재 띠고리와 연결된 첫 번째 네모난 장식판에만 남아 있는데, 발굴 당시에는 전체에 달려 있었습니다."
+      }
+    ]
+  },
+  "features": [
+    "세잎 무늬 장식과 하트 모양 드리개",
+    "곱은옥(초승달 모양 옥)과 둥근 달개 장식",
+    "나뭇가지 및 사슴뿔 모양의 세움 장식",
+    "정교한 금실 세공 기법"
+  ],
+  "sourceUrl": "https://gyeongju.museum.go.kr/_prog/bbs/?mode=V&site_dvs_cd=kor&menu_dvs_cd=0407&code=0403_2025&no=5378"
+}

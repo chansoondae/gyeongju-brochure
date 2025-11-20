@@ -1,0 +1,132 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 255 255 255;
+    --foreground: 26 26 26;
+    --card: 255 255 255;
+    --card-foreground: 26 26 26;
+    --gold: 212 175 55;
+    --gold-dark: 139 105 20;
+  }
+
+  .dark {
+    --background: 26 26 26;
+    --foreground: 232 232 232;
+    --card: 45 45 45;
+    --card-foreground: 232 232 232;
+    --gold: 255 215 0;
+    --gold-dark: 212 175 55;
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-gradient-to-b from-amber-50 via-white to-amber-50/30 dark:from-gray-950 dark:via-[#1A1A1A] dark:to-gray-950;
+    font-feature-settings: "rlig" 1, "calt" 1;
+    min-height: 100vh;
+  }
+
+  /* 글자 크기 조절 */
+  [data-font-size="small"] {
+    font-size: 14px;
+  }
+
+  [data-font-size="small"] .text-base {
+    font-size: 15px;
+  }
+
+  [data-font-size="small"] .text-lg {
+    font-size: 16px;
+  }
+
+  [data-font-size="small"] .text-xl {
+    font-size: 18px;
+  }
+
+  [data-font-size="small"] .text-2xl {
+    font-size: 20px;
+  }
+
+  [data-font-size="small"] .text-3xl {
+    font-size: 24px;
+  }
+
+  [data-font-size="small"] .text-4xl {
+    font-size: 28px;
+  }
+
+  [data-font-size="medium"] {
+    font-size: 16px;
+  }
+
+  [data-font-size="large"] {
+    font-size: 18px;
+  }
+
+  [data-font-size="large"] .text-base {
+    font-size: 19px;
+  }
+
+  [data-font-size="large"] .text-lg {
+    font-size: 22px;
+  }
+
+  [data-font-size="large"] .text-xl {
+    font-size: 26px;
+  }
+
+  [data-font-size="large"] .text-2xl {
+    font-size: 30px;
+  }
+
+  [data-font-size="large"] .text-3xl {
+    font-size: 36px;
+  }
+
+  [data-font-size="large"] .text-4xl {
+    font-size: 42px;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .shimmer {
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgba(212, 175, 55, 0.1),
+      transparent
+    );
+    animation: shimmer 3s infinite;
+  }
+
+  @keyframes shimmer {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+
+  .fade-in {
+    animation: fadeIn 0.6s ease-in;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
