@@ -26,10 +26,10 @@ export function Header() {
               </div>
             )}
             <div>
-              <h1 className="text-lg font-bold bg-gradient-to-r from-amber-900 via-yellow-700 to-amber-900 dark:from-amber-200 dark:via-yellow-400 dark:to-amber-200 bg-clip-text text-transparent">
+              <h1 className="!text-[16px] font-bold bg-gradient-to-r from-amber-900 via-yellow-700 to-amber-900 dark:from-amber-200 dark:via-yellow-400 dark:to-amber-200 bg-clip-text text-transparent">
                 국립경주박물관
               </h1>
-              <p className="text-xs text-amber-600 dark:text-amber-400">
+              <p className="!text-[11px] text-amber-600 dark:text-amber-400">
                 Gyeongju National Museum
               </p>
             </div>

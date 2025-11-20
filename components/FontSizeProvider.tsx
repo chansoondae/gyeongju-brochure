@@ -24,7 +24,6 @@ export function FontSizeProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     localStorage.setItem('fontSize', fontSize)
-    document.documentElement.setAttribute('data-font-size', fontSize)
   }, [fontSize])
 
   const increaseFontSize = () => {

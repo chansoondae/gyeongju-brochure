@@ -3,6 +3,7 @@ import { Noto_Sans_KR } from 'next/font/google'
 import './globals.css'
 import { ThemeProvider } from '@/components/ThemeProvider'
 import { FontSizeProvider } from '@/components/FontSizeProvider'
+import { ContentWrapper } from '@/components/ContentWrapper'
 import { Header } from '@/components/Header'
 
 const notoSansKR = Noto_Sans_KR({
@@ -39,7 +40,9 @@ export default function RootLayout({
         >
           <FontSizeProvider>
             <Header />
-            <main className="min-h-screen">{children}</main>
+            <ContentWrapper>
+              <main className="min-h-screen">{children}</main>
+            </ContentWrapper>
           </FontSizeProvider>
         </ThemeProvider>
       </body>
